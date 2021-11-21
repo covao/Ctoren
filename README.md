@@ -1,5 +1,5 @@
 ![Ctoren](img/ctoren.png)  
-# Type-C USB Connector Guard  
+# USB type-C Connector Guard  
 
 ![Ctoren](img/ctoren.gif)
 
