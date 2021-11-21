@@ -6,4 +6,4 @@
 # 3D Printed Parts
   
 ![Ctoren Right side STL file](3d/Ctoren_R.stl)  
-![Ctoren Left Side STL file](3d/Ctreon_L.stl)  
+![Ctoren Left Side STL file](3d/Ctoren_L.stl)  
