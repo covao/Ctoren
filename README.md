@@ -1,9 +1,9 @@
 ![Ctoren](img/ctoren.png)  
-# USB type-C Connector Guard  
+# USB Connector Guard  
 
 ![Ctoren](img/ctoren.gif)
 
 # 3D Printed Parts
   
-![Ctoren Right side STL file](3d/Ctoren_R.stl)  
-![Ctoren Left Side STL file](3d/Ctoren_L.stl)  
+![Ctoren Type-C 90 degree for Right side](3d/Ctoren_R.stl)  
+![Ctoren Type-C 90 degree for Left Side](3d/Ctoren_L.stl)  
